@@ -1,0 +1,16 @@
+/Users/connordang/Desktop/cs184/hw1/xcode/CMakeFiles/draw.dir
+/Users/connordang/Desktop/cs184/hw1/xcode/CMakeFiles/install.dir
+/Users/connordang/Desktop/cs184/hw1/xcode/CMakeFiles/ALL_BUILD.dir
+/Users/connordang/Desktop/cs184/hw1/xcode/CMakeFiles/ZERO_CHECK.dir
+/Users/connordang/Desktop/cs184/hw1/xcode/CGL/CMakeFiles/CGL.dir
+/Users/connordang/Desktop/cs184/hw1/xcode/CGL/CMakeFiles/install.dir
+/Users/connordang/Desktop/cs184/hw1/xcode/CGL/CMakeFiles/ALL_BUILD.dir
+/Users/connordang/Desktop/cs184/hw1/xcode/CGL/CMakeFiles/ZERO_CHECK.dir
+/Users/connordang/Desktop/cs184/hw1/xcode/CGL/deps/glew/CMakeFiles/glew.dir
+/Users/connordang/Desktop/cs184/hw1/xcode/CGL/deps/glew/CMakeFiles/install.dir
+/Users/connordang/Desktop/cs184/hw1/xcode/CGL/deps/glfw/CMakeFiles/uninstall.dir
+/Users/connordang/Desktop/cs184/hw1/xcode/CGL/deps/glfw/CMakeFiles/install.dir
+/Users/connordang/Desktop/cs184/hw1/xcode/CGL/deps/glfw/CMakeFiles/ALL_BUILD.dir
+/Users/connordang/Desktop/cs184/hw1/xcode/CGL/deps/glfw/CMakeFiles/ZERO_CHECK.dir
+/Users/connordang/Desktop/cs184/hw1/xcode/CGL/deps/glfw/src/CMakeFiles/glfw.dir
+/Users/connordang/Desktop/cs184/hw1/xcode/CGL/deps/glfw/src/CMakeFiles/install.dir
